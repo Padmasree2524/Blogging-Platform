@@ -55,6 +55,3 @@ Blogging-Platform/
 
 **Padmasree**
 
----
-
-⭐ If you like this project, don't forget to give it a star!
